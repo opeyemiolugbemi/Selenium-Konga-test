@@ -1,0 +1,21 @@
+{
+  "id": "dca72536-fbdb-46dc-9f57-608f25e57d2a",
+  "version": "2.0",
+  "name": "konga failed sign up",
+  "url": "",
+  "tests": [{
+    "id": "12c3c4f9-8518-479b-98b6-ea7bc578e86e",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "500fc1bc-290e-4175-a037-24813bebc300",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["12c3c4f9-8518-479b-98b6-ea7bc578e86e"]
+  }],
+  "urls": [],
+  "plugins": []
+}
